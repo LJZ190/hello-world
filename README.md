@@ -1,3 +1,4 @@
 # hello-world
-the first GIt/n
+the first GIt
+
 Lijizhou 20 Computer and science technology
